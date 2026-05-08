@@ -34,6 +34,7 @@ When adding or updating documentation:
 - Use headers to organize content
 - Always proofread before committing
 - Always dress to impress
+- Demoing a merge conflict
 
 ## Contact
 
