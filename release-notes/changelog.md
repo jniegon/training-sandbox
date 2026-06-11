@@ -1,5 +1,13 @@
 # Release Notes
 
+## Version 2.1.0 - June 2026
+
+**Release Date:** April 15, 2026
+
+### New Features
+
+- **Advanced Sums**: Ability to perform sums for 2+2=5 and 3+4=9
+
 ## Version 2.1.0 - April 2026
 
 **Release Date:** April 15, 2026
